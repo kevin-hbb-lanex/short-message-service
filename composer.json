@@ -18,11 +18,11 @@
     }
   },
   "extra": {
-        "laravel": {
-            "providers": [
-                "KevinHbbLanex\\ShortMessageService\\SMSServiceProvider"
-            ]
-        }
-    },
+    "laravel": {
+        "providers": [
+            "KevinHbbLanex\\ShortMessageService\\SMSServiceProvider"
+        ]
+    }
+  },
   "minimum-stability": "dev"
 }
