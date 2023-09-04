@@ -1,0 +1,21 @@
+{
+  "name": "kevin-hbb-lanex/short-message-service",
+  "description": "Generate random password of a given length",
+  "type": "library",
+  "require": {
+    "php": "^8.0.2"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Kevin Loquencio",
+      "email": "kevin.loquencio@lanexcorp.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ShortMessageService\\": "src/Providers/"
+    }
+  },
+  "minimum-stability": "dev"
+}
